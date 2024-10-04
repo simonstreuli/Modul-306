@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Pfad zum Python-Skript
-script="alter_berechnen.py"
+script="ageCalculator.py"
 
 # Liste der Testfälle
 dates=("25.12.1995" "31.02.2020" "29.02.2000" "01.01.2024" "15.08.1990")
